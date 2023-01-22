@@ -5,4 +5,4 @@
 <h1 align="center">Hi 👋, We're LobeliaSecurity™</h1>
 <h3 align="center">A lazy security related things developer</h3>
 
-<p align="center"> <a href="https://twitter.com/lob_tech" target="blank"><img src="https://img.shields.io/twitter/follow/LobSec?logo=twitter&style=for-the-badge" alt="LobSec" /></a> </p>
+<p align="center"> <a href="https://twitter.com/LobeliaSecurity" target="blank"><img src="https://img.shields.io/twitter/follow/LobeliaSecurity?logo=twitter&style=for-the-badge" alt="LobeliaSecurity" /></a> </p>
