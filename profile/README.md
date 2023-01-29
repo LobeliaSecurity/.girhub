@@ -6,3 +6,10 @@
 <h3 align="center">A lazy security related things developer</h3>
 
 <p align="center"> <a href="https://twitter.com/LobeliaSecurity" target="blank"><img src="https://img.shields.io/twitter/follow/LobeliaSecurity?logo=twitter&style=for-the-badge" alt="LobeliaSecurity" /></a> </p>
+
+
+<h2 align="center">Projects we currently hard working on</h2>
+<a href="https://github.com/LobeliaSecurity/BlueFox">
+<div>^.,.^ BlueFox</div>
+<img src="https://github.com/LobeliaSecurity/BlueFox/raw/main/media/SocialPreview.png">
+</a>
