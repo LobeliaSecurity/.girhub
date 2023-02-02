@@ -3,9 +3,16 @@
 </div>
 
 <h1 align="center">Hi 👋, We're LobeliaSecurity™</h1>
-<h3 align="center">A lazy security related things developer</h3>
+<h3 align="center">
+<div>We developing normally harmless applications using technologies such as Automation, AI, and Web, Networking, etc.</div>
+<div>And We focusing that can be repurposed into pen-test like something.</div>
+</h3>
 
-<p align="center"> <a href="https://twitter.com/LobeliaSecurity" target="blank"><img src="https://img.shields.io/twitter/follow/LobeliaSecurity?logo=twitter&style=for-the-badge" alt="LobeliaSecurity" /></a> </p>
+<div align="center">
+<a href="https://twitter.com/intent/follow?screen_name=LobeliaSecurity" target="_blank">
+<img src="https://img.shields.io/twitter/follow/LobeliaSecurity?logo=twitter&style=for-the-badge" alt="LobeliaSecurity" />
+</a>
+</div>
 
 
 <h2 align="center">Projects we currently hard working on</h2>
