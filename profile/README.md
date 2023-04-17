@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/119476809?s=400&u=a3e7a97e9b858cf4971ff6a3017b2c7162f85d54&v=4">
+<img src="https://www.lobeliasecurity.com/media/logo.png">
 </div>
 
 <h1 align="center">Hi 👋, We're LobeliaSecurity™</h1>
