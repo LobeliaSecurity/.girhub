@@ -17,5 +17,5 @@
 <h2 align="center">Projects we currently hard working on</h2>
 <a href="https://github.com/LobeliaSecurity/BlueFox">
 <div>^.,.^ BlueFox</div>
-<img src="https://github.com/LobeliaSecurity/BlueFox/raw/main/media/SocialPreview.png">
+<img src="https://repository-images.githubusercontent.com/589325811/c7f7aaa7-087e-4041-8abb-72b99ae5143b">
 </a>
