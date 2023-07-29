@@ -8,12 +8,6 @@
 <div>And We focusing that can be repurposed into pen-test like something.</div>
 </h3>
 
-<div align="center">
-<a href="https://twitter.com/intent/follow?screen_name=LobeliaSecurity" target="_blank">
-<img src="https://img.shields.io/twitter/follow/LobeliaSecurity?logo=twitter&style=for-the-badge" alt="LobeliaSecurity" />
-</a>
-</div>
-
 <h2 align="center">Projects we currently hard working on</h2>
 <a href="https://github.com/LobeliaSecurity/BlueFox">
 <div>^.,.^ BlueFox</div>
